@@ -9,6 +9,7 @@ public class Welcome_test {
 		System.out.println("syso ctrl+space is the shortcut for the print statement");
 		System.out.println("First Try");
 		System.out.println("I am trying POLLSCM");
+		System.out.println("I have added");
 	}
 
 }
